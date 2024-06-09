@@ -3,5 +3,5 @@ tutaj macie do pobrania modele loga ROBOILO i PM,
 
 macie mieć w modelach dachu wycięcia w tym kształcie i wielkości, głębokość 1mm
 
-w robotach umieszczacie logo roboilo i PMa
+w robotach umieszczacie logo ROBOILO i PMa
  
